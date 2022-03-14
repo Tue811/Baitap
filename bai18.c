@@ -6,6 +6,7 @@ int main()
     int y=1;
     float S=0;
     printf("nhap n= ");
+    // Thanh dep trai
     scanf("%d",&n);
     printf("nhap x= ");
     scanf("%d",&x);
